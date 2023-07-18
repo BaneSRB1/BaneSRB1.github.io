@@ -12,7 +12,7 @@ body {
 	border-left: 3px solid #666666;
 	border-bottom: 3px solid #666666;
 	background-color: #3F58BC;
-	background-image:  url("../images/leftphoto.jpg");
+	background-image:  url("leftphoto.jpg");
 	background-repeat: no-repeat;
 	background-position: left bottom;
 }
